@@ -1,0 +1,13 @@
+-------------------------------------------------
+|    Tecnologia e Arquitectura de Computadores  |
+|						|
+|	Trabalho Pratico			|
+|		Daniel Ferreira 21220123	|
+|		Nuno Silva	21220170	|
+|						|
+|						|
+|		Escolha uma opcao:		|
+|		      1 - Aritmetica	        |
+|		      2 - Conversoes		|
+|		      3 - Sair			|
+-------------------------------------------------

@@ -1,0 +1,10 @@
+----------------------------------
+|	Menu Aritmetica		 |
+|				 |
+| 1 -  Soma em binario puro      |
+| 2 -  Subtracao em binario puro |
+| 3 -  Soma em Hexadecimal       |
+| 4 -  Subtracao em Hexadecimal  |
+| 5 -  Soma em complementos de 2 |
+| 6 -  Voltar			 |
+----------------------------------
